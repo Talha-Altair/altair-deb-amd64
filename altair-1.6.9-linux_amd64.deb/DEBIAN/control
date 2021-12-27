@@ -1,0 +1,9 @@
+Package: altair
+Version: 1.6.9
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: Talha-Altair
+Description: Very Secret, lol
